@@ -1,4 +1,5 @@
 # Webscraper
+[![BCH compliance](https://bettercodehub.com/edge/badge/raunak-r/web-scraper?branch=master)](https://bettercodehub.com/)
 
 ### Running a Spider
 > scrapy crawl spider_name 
